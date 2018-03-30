@@ -9,6 +9,8 @@ $(document).ready(function(event) {
 
 $('#TodoForm').submit(function(event) {
 	event.preventDefault();
+	// $('#inputBox').reset();
+
 
 $('#orderedList').append("<li>" + ($('#inputBox').val()))
 })
