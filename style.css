@@ -17,7 +17,9 @@ img {
 #orderedList {
 	display: block;
 	margin-top: 10px;
-	margin-left: 45%;
-	margin-right: 50%;
-	padding-left: 0px;
+	margin-left: 40%;
+}
+
+body {
+	background-color: #E5D398;
 }
